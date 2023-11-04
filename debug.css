@@ -63,6 +63,11 @@ body{
 .DBblue
 {
     background-color: rgb(1, 159, 207);
+    border: 0.5px solid black;
+    border-radius: 10px;
+    height: 295px;
+
+
 }
 .Dbluel
 {
@@ -84,4 +89,24 @@ body{
 .bradius2
 {
     border-radius: 2rem;
+}
+.border-contact{
+    border: 0.5px solid white;
+    border-radius: 10px;
+    height: 295px;
+
+}
+.phone-1{
+    color: rgb(95, 87, 87);
+}
+.footer-img{
+    border-radius: 10px;
+}
+.border-radius1{
+    border-radius: 10px;
+    
+}
+
+.foot-color{
+    color: white;
 }
